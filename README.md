@@ -1,4 +1,4 @@
-# PLSQL PROJECT
+# PL-SQL PROJECT
 **Developer**: Aryan Pramod Sabale  
 **Third Year Computer Engineering Student** at Amrutvahini College of Engineering.  
 **Contact**: aryansabale20044@gmail.com  
