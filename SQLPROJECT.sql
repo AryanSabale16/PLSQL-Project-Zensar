@@ -23,7 +23,7 @@ INSERT INTO Students (StudentID, FirstName, LastName, Email, PhoneNumber) VALUES
 INSERT INTO Students (StudentID, FirstName, LastName, Email, PhoneNumber) VALUES
 (8, 'Manish', 'Naik', 'manishnaik@gmail.com', '789-231-5644');
 INSERT INTO Students (StudentID, FirstName, LastName, Email, PhoneNumber) VALUES
-(9, 'Yash', 'Patil', 'krushnasase@gmail.com', '123-987-4560');
+(9, 'Yash', 'Patil', 'yashpatil@gmail.com', '456-897-2520');
 
 select * from Students;
 
