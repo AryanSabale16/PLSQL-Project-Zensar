@@ -5,7 +5,7 @@
 # Attendance Management System
 
 ## Project Overview
-This project is a database-driven system designed to manage student attendance records for a college. It includes functionalities for storing student and course information, recording attendance, and generating attendance reports. The system also features:
+This project is a database-driven system designed to manage student attendance records for a college. It includes various functions for storing student and course information, recording attendance, and generating attendance reports. Some important tasks performed here are:
 
 - **PL/SQL Procedures**: To calculate attendance percentages.
 - **Triggers**: To notify students falling below a predefined attendance threshold.
