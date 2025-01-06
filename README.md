@@ -1,7 +1,7 @@
 # PLSQL PROJECT
-# Aryan Sabale
-  -- Third Year Computer Engineering Student at Amrutvahini College of Engineering.
-  -- Contact:- aryansabale20044@gmail.com
+# Aryan Pramod Sabale
+  Third Year Computer Engineering Student at Amrutvahini College of Engineering.
+  Contact:- aryansabale20044@gmail.com
 # Attendance Management System
 
 ## Project Overview
